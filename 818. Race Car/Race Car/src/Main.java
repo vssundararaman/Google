@@ -62,10 +62,10 @@ public class Main {
     /**
      * Method returns the target position
      *
-     * @param target
-     * @param queue
-     * @param visited
-     * @param moves
+     * @param target target
+     * @param queue queue
+     * @param visited visited
+     * @param moves moves
      * @return target position
      */
     private static int raceCar(int target, List<Integer[]> queue, HashSet<Integer[]> visited, int moves) {
